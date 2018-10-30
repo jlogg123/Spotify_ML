@@ -9,7 +9,6 @@ Spotipy (v2.4.4)
 
 Sklearn (v0.18)
 
-Plotly (v3.3.0)
 
 ### Installing
 
